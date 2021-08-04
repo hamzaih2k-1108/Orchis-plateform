@@ -1,0 +1,1 @@
+<a href="/"><img src="{{ asset('/image/logoOC.png') }}" alt="error" style="width: 100px;height:60px"></a>
